@@ -1,0 +1,10 @@
+Enter Option [UP|DOWN|LEFT|RIGHT] : Going Up
+Enter Option [UP|DOWN|LEFT|RIGHT] : Going Right
+Enter Option [UP|DOWN|LEFT|RIGHT] : Going Right
+Enter Option [UP|DOWN|LEFT|RIGHT] : Going Down
+Enter Option [UP|DOWN|LEFT|RIGHT] : Going Left
+Enter Option [UP|DOWN|LEFT|RIGHT] : Wrong input!
+Enter Option [UP|DOWN|LEFT|RIGHT] : Wrong input!
+Enter Option [UP|DOWN|LEFT|RIGHT] : Wrong input!
+Enter Option [UP|DOWN|LEFT|RIGHT] : Going Left
+Enter Option [UP|DOWN|LEFT|RIGHT] : 
